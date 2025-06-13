@@ -154,7 +154,7 @@ git clone https://github.com/KyThuatPhanMemQuanlyChungCuBlueMoon/FE-Next.js.git
 
 2. Tạo feature branch
 ```bash
-git checkout -b feature/ta1ta1
+git checkout -b feature/ta1
 ```
 
 3. Add local repo
